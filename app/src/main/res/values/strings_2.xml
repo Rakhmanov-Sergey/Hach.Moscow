@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_1">Подборки</string>
+    <string name="title_2">Рекомендации</string>
+    <string name="title_3">Моя музыка</string>
+    <string name="title_4">Радио</string>
+    <string name="title_5">Поиск</string>
+</resources>
